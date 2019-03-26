@@ -9,7 +9,7 @@ SUBDIRS += dde-shutdown \
     dde-suspend-dialog \
     dde-warning-dialog \
     dde-welcome \
-    dde-wm-chooser \
+#    dde-wm-chooser \
     dmemory-warning-dialog \
     dnetwork-secret-dialog \
     dde-full-filesystem
